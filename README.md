@@ -8,7 +8,7 @@
 
 ![NoxusJr GitHub stats](https://github-readme-stats.vercel.app/api?username=noxusjr&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noxusjr&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noxusjr&layout=compact&theme=dracula&hide=css)
 
 ### Tecnologias que eu domino
 
