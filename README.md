@@ -1,4 +1,4 @@
-### Olá, Eu Sou O George Júnior 🖐️
+### Olá, Meu nome é George Júnior 🖐️
 
 [![blog](https://img.shields.io/badge/Portifólio-0DBD8B?style=for-the-badge&logo=About.me&logoColor=white)](https://noxusjr.github.io/Portfolio)
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
