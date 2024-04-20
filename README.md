@@ -1,14 +1,14 @@
 ### Olá, Meu nome é George Júnior 🖐️
 
-[![blog](https://img.shields.io/badge/Portifólio-0DBD8B?style=for-the-badge&logo=About.me&logoColor=white)](https://noxusjr.github.io/Portfolio)
+[![blog](https://img.shields.io/badge/Portifólio-0DBD8B?style=for-the-badge&logo=About.me&logoColor=white)](https://georgejrdev.github.io/Portfolio)
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/ctt.george/)
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/george-j%C3%BAnior-b26776268)
 
-![NoxusJr GitHub stats](https://github-readme-stats.vercel.app/api?username=noxusjr&show_icons=true&theme=dracula)
+![georgejrdev GitHub stats](https://github-readme-stats.vercel.app/api?username=georgejrdev&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noxusjr&layout=compact&theme=dracula&hide=css,jupyter%20notebook,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgejrdev&layout=compact&theme=dracula&hide=css,jupyter%20notebook,html)
 
 ### Habilidades:
 
