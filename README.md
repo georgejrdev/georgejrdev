@@ -4,10 +4,13 @@
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/george-j%C3%BAnior-b26776268)
 
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=georgejrdev&show_icons=true&theme=dracula">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgejrdev&size_weight=0.15&count_weight=0.5&layout=compact&theme=dracula&hide=css,jupyter%20notebook,html">
-</p>
+
+<div style="display:flex; gap:10px;flex-direction:row;">
+
+<img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=sammorozov&show_icons=true&theme=vision-friendly-dark">
+
+<img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammorozov&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+</div>
 
 ### Habilidades:
 
