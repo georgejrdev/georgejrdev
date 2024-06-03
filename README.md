@@ -1,12 +1,19 @@
-### Olá, Meu nome é George Júnior 🖐️
+### Hi, I'm George Júnior 🖐️
 
-[![blog](https://img.shields.io/badge/Portifólio-0DBD8B?style=for-the-badge&logo=About.me&logoColor=white)](https://georgejrdev.github.io/Portfolio)
+[![blog](https://img.shields.io/badge/Portfolio-0DBD8B?style=for-the-badge&logo=About.me&logoColor=white)](https://georgejrdev.github.io/Portfolio)
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/george-j%C3%BAnior-b26776268)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgejrdev&layout=compact&theme=dracula&hide=css,jupyter%20notebook,html)
 
-### Habilidades:
+### About me:
+
+Hello! I'm a Fullstack Developer with nearly 4 years of experience. I specialize in Java, JavaScript/TypeScript, Vue.js, and React Native, with additional experience in PHP and Python projects.
+
+I'm passionate about learning and constantly seek to expand my skills. I engage in freelance work and personal projects to apply and grow my expertise. I love tackling challenges in both backend and frontend development, staying at the forefront of the tech landscape.
+
+
+### Skills:
 
 <div style="display: inline_block"><br/> 
     <img margin="5 align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -29,13 +36,7 @@
 
 #### ----
 
-<div align="center">
-
 ![georgejrdev GitHub stats](https://github-readme-stats.vercel.app/api?username=georgejrdev&show_icons=true&theme=dracula)
 
-</div>
-
-<div align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=georgejrdev&theme=dracula&hide_border=true&border_radius=5&card_width=800">
-</div>
+![georgejrdev](https://streak-stats.demolab.com?user=georgejrdev&theme=dracula&hide_border=true&border_radius=5&card_width=800")
 
