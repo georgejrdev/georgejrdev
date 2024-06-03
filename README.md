@@ -4,10 +4,13 @@
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/george-j%C3%BAnior-b26776268)
 
+
+<div style="display:flex; gap:20px">
+
 ![georgejrdev GitHub stats](https://github-readme-stats.vercel.app/api?username=georgejrdev&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgejrdev&layout=compact&theme=dracula&hide=css,jupyter%20notebook,html)
-
+</div>
 ### Habilidades:
 
 <div style="display: inline_block"><br/> 
@@ -26,3 +29,11 @@
     <img margin="5 align="center" alt="react native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     
 </div>
+
+<br>
+
+#### ----
+
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=georgejrdev&theme=dracula&hide_border=true&border_radius=5&card_width=800">
+</p>
