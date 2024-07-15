@@ -4,6 +4,9 @@
     <a href="https://georgejrdev.github.io/Portfolio" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-0DBD8B?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
     </a>
+    <a href="https://georgejrdev-blog.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Blog-FF2222?style=for-the-badge&logo=blogger&logoColor=white" alt="LinkedIn">
+    </a>
     <a href="https://www.linkedin.com/in/george-j%C3%BAnior-b26776268" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
@@ -45,6 +48,18 @@ I'm passionate about learning and constantly seek to expand my skills. I engage 
     <img margin="5 align="center" alt="tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
     
 </div>
+
+<br>
+
+### Best articles:
+
+the best articles I wrote on the most diverse topics.
+
+- [An architecture for simple projects]()
+- [Always choose simplicity]()
+- [The language of the future]()
+- [Why PhP is good for beginners]()
+- [The best workflow for you]()
 
 <br>
 <br>
