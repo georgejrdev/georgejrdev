@@ -15,7 +15,7 @@
 
 ### About me:
 
-Hello! I'm a Fullstack Developer with nearly 4 years of experience. I specialize in Java, JavaScript/TypeScript, Vue.js, and React Native, with additional experience in PHP and Python projects.
+Hello! I'm a Fullstack Developer with nearly 4 years of experience. I specialize in Java, JavaScript/TypeScript, Nuxt.js, and React Native, with additional experience in PHP and Python projects.
 
 I'm passionate about learning and constantly seek to expand my skills. I engage in freelance work and personal projects to apply and grow my expertise. I love tackling challenges in both backend and frontend development, staying at the forefront of the tech landscape.
 
@@ -39,7 +39,10 @@ I'm passionate about learning and constantly seek to expand my skills. I engage 
     <img margin="5 align="center" alt="postgre" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img margin="5 align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
     <img margin="5 align="center" alt="azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-
+    <img margin="5 align="center" alt="godot" src="https://img.shields.io/badge/GODOT-%23F5F5F5.svg?style=for-the-badge&logo=godot-engine"/>
+    <img margin="5 align="center" alt="html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img margin="5 align="center" alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img margin="5 align="center" alt="tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
     
 </div>
 
