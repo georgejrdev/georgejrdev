@@ -55,11 +55,11 @@ I'm passionate about learning and constantly seek to expand my skills. I engage 
 
 the best articles I wrote on the most diverse topics.
 
-- [An architecture for simple projects]()
-- [Always choose simplicity]()
-- [The language of the future]()
-- [Why PhP is good for beginners]()
-- [The best workflow for you]()
+- [An architecture for simple projects](https://georgejrdev-blog.vercel.app/post?id=1)
+- [Always choose simplicity](https://georgejrdev-blog.vercel.app/)
+- [The language of the future](https://georgejrdev-blog.vercel.app/)
+- [Why PhP is good for beginners](https://georgejrdev-blog.vercel.app/post?id=0)
+- [The best workflow for you](https://georgejrdev-blog.vercel.app/)
 
 <br>
 <br>
