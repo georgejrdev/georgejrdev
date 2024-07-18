@@ -1,10 +1,10 @@
 ### Hi, I'm George Júnior 🖐️
 
 <div>
-    <a href="https://georgejrdev.github.io/Portfolio" target="_blank">
+    <a href="https://portfolio-georgejrdev.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-0DBD8B?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
     </a>
-    <a href="https://georgejrdev-blog.vercel.app/" target="_blank">
+    <a href="https://portfolio-georgejrdev.vercel.app/blog" target="_blank">
         <img src="https://img.shields.io/badge/Blog-FF2222?style=for-the-badge&logo=blogger&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://www.linkedin.com/in/george-j%C3%BAnior-b26776268" target="_blank">
@@ -55,11 +55,11 @@ I'm passionate about learning and constantly seek to expand my skills. I engage 
 
 the best articles I wrote on the most diverse topics.
 
-- [An architecture for simple projects](https://georgejrdev-blog.vercel.app/post?id=1)
-- [Always choose simplicity](https://georgejrdev-blog.vercel.app/)
-- [The language of the future](https://georgejrdev-blog.vercel.app/)
-- [Why PhP is good for beginners](https://georgejrdev-blog.vercel.app/post?id=0)
-- [The best workflow for you](https://georgejrdev-blog.vercel.app/)
+- [An architecture for simple projects](https://portfolio-georgejrdev.vercel.app/post/1)
+- [Always choose simplicity](https://portfolio-georgejrdev.vercel.app/post/2)
+- [The language of the future](https://portfolio-georgejrdev.vercel.app/post/3)
+- [Why PhP is good for beginners](https://portfolio-georgejrdev.vercel.app/post/0)
+- [The best workflow for you](https://portfolio-georgejrdev.vercel.app/post/4)
 
 <br>
 <br>
