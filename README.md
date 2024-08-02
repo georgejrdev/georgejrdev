@@ -60,3 +60,8 @@ the best articles I wrote on the most diverse topics.
 - [The language of the future](https://portfolio-georgejrdev.vercel.app/post/3)
 - [Why PhP is good for beginners](https://portfolio-georgejrdev.vercel.app/post/0)
 - [The best workflow for you](https://portfolio-georgejrdev.vercel.app/post/4)
+
+<br>
+<br>
+
+<img src="./image.jpg" alt="nice image" style="clip-path: inset(0 0 75% 0);">
