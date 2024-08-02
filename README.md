@@ -64,4 +64,4 @@ the best articles I wrote on the most diverse topics.
 <br>
 <br>
 
-<img src="./image.jpg" alt="nice image" style="clip-path: inset(0 0 75% 0);">
+<img src="./image.jpg" alt="nice image"/>
