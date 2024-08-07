@@ -65,4 +65,4 @@ The best articles I wrote on the most diverse topics.
 <br>
 <br>
 
-<img src="./decoration.jpg" alt="nice image"/>
+<img src="./image.jpg" alt="nice image"/>
