@@ -54,7 +54,7 @@ I'm passionate about learning and constantly seek to expand my skills. I engage 
 
 ### Best articles:
 
-the best articles I wrote on the most diverse topics.
+The best articles I wrote on the most diverse topics.
 
 - [An architecture for simple projects](https://portfolio-georgejrdev.vercel.app/post/1)
 - [Always choose simplicity](https://portfolio-georgejrdev.vercel.app/post/2)
