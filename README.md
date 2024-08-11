@@ -31,8 +31,6 @@ Hello! I'm a Fullstack Developer with nearly 4 years of experience. I specialize
 
 I'm passionate about learning and constantly seek to expand my skills. I engage in freelance work and personal projects to apply and grow my expertise. I love tackling challenges in both backend and frontend development, staying at the forefront of the tech landscape.
 
-<br>
-
 ### Skills:
 
 <div style="display: inline_block"><br/> 
