@@ -4,6 +4,9 @@
     <a href="https://portfolio-georgejrdev.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-0DBD8B?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
     </a>
+    <a href="https://official-tstc.github.io/web" target="_blank">
+        <img src="https://img.shields.io/badge/TSTC-FFAAAA?style=for-the-badge&logo=About.me&logoColor=black" alt="TSTC">
+    </a>
     <a href="https://portfolio-georgejrdev.vercel.app/blog" target="_blank">
         <img src="https://img.shields.io/badge/Blog-FF2222?style=for-the-badge&logo=blogger&logoColor=white" alt="LinkedIn">
     </a>
@@ -12,9 +15,15 @@
     </a>
 </div>
 
-<br>
+<hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgejrdev&layout=compact&theme=dracula&hide=css,jupyter%20notebook,html)
+### The Self Technology Company
+
+Meet [The Self Technology Company](https://official-tstc.github.io/web). 
+
+Creating innovative, data-privacy-focused software that runs locally or self-hosted, freeing you from internet dependency.
+
+<hr>
 
 ### About me:
 
@@ -22,6 +31,7 @@ Hello! I'm a Fullstack Developer with nearly 4 years of experience. I specialize
 
 I'm passionate about learning and constantly seek to expand my skills. I engage in freelance work and personal projects to apply and grow my expertise. I love tackling challenges in both backend and frontend development, staying at the forefront of the tech landscape.
 
+<br>
 
 ### Skills:
 
@@ -61,8 +71,3 @@ The best articles I wrote on the most diverse topics.
 - [The language of the future](https://portfolio-georgejrdev.vercel.app/post/3)
 - [Why PhP is good for beginners](https://portfolio-georgejrdev.vercel.app/post/0)
 - [The best workflow for you](https://portfolio-georgejrdev.vercel.app/post/4)
-
-<br>
-<br>
-
-<img src="./image.jpg" alt="nice image"/>
