@@ -17,14 +17,6 @@
 
 <hr>
 
-### The Self Technology Company
-
-Meet [The Self Technology Company](https://official-tstc.github.io/web). 
-
-Creating innovative, data-privacy-focused software that runs locally or self-hosted, freeing you from internet dependency.
-
-<hr>
-
 ### About me:
 
 Hello! I'm a Fullstack Developer with nearly 4 years of experience. I specialize in Java, JavaScript/TypeScript, Nuxt.js, and React Native, with additional experience in PHP and Python projects.
@@ -66,6 +58,5 @@ The best articles I wrote on the most diverse topics.
 
 - [An architecture for simple projects](https://portfolio-georgejrdev.vercel.app/post/1)
 - [Always choose simplicity](https://portfolio-georgejrdev.vercel.app/post/2)
-- [The language of the future](https://portfolio-georgejrdev.vercel.app/post/3)
 - [Why PhP is good for beginners](https://portfolio-georgejrdev.vercel.app/post/0)
 - [The best workflow for you](https://portfolio-georgejrdev.vercel.app/post/4)
