@@ -4,9 +4,6 @@
     <a href="https://portfolio-georgejrdev.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-0DBD8B?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
     </a>
-    <a href="https://official-tstc.github.io/web" target="_blank">
-        <img src="https://img.shields.io/badge/TSTC-FFAAAA?style=for-the-badge&logo=About.me&logoColor=black" alt="TSTC">
-    </a>
     <a href="https://portfolio-georgejrdev.vercel.app/blog" target="_blank">
         <img src="https://img.shields.io/badge/Blog-FF2222?style=for-the-badge&logo=blogger&logoColor=white" alt="LinkedIn">
     </a>
