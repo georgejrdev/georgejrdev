@@ -30,8 +30,6 @@ I'm passionate about learning and constantly seek to expand my skills. I engage 
     <img margin="5" alt="react native" src="https://img.shields.io/badge/React_Native-202366?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
 
-<br>
-
 ### Complementary skills
 
 <div>
@@ -41,11 +39,8 @@ I'm passionate about learning and constantly seek to expand my skills. I engage 
     <img margin="5" alt="postgre" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img margin="5" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-A32F3F?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
     <img margin="5" alt="azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-    <img margin="5" alt="actions" src="https://img.shields.io/badge/GitHub_Actions-555555?style=for-the-badge&logo=github-actions&logoColor=white
-    "/>
+    <img margin="5" alt="actions" src="https://img.shields.io/badge/GitHub_Actions-555555?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </div>
-
-<br>
 
 ### Other languages / frameworks I've worked with:
 
