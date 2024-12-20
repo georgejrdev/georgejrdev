@@ -26,7 +26,7 @@ I'm passionate about learning and constantly seek to expand my skills. I engage 
 
 - English / Portuguese 🗺
 
-- Azure / AWS / CI/CD ☁
+- Azure / AWS / CI-CD ☁
 
 - SQL / NoSQL 🗄
 
