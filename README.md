@@ -20,17 +20,17 @@ Hello! I'm a Fullstack Developer with 4 years of experience. I specialize in Jav
 
 I'm passionate about learning and constantly seek to expand my skills. I engage in freelance work and personal projects to apply and grow my expertise. I love tackling challenges in both backend and frontend development, staying at the forefront of the tech landscape.
 
-- **Java** / **Spring** ☕
+- Java / Spring ☕
 
-- **TypeScript** / **Angular** 👨‍💻
+- TypeScript / Angular 👨‍💻
 
-- **English** / **Portuguese** 🗺
+- English / Portuguese 🗺
 
-- **Azure** / **AWS** / **CI/CD** ☁
+- Azure / AWS / CI/CD ☁
 
-- **SQL** / **NoSQL** 🗄
+- SQL / NoSQL 🗄
 
-- **Tailwind** / **SASS** 🎉
+- Tailwind / SASS 🎉
 
 ### Best articles:
 
