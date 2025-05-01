@@ -1,13 +1,13 @@
 ### Hi, I'm George Júnior 🖐️
 
 <div>
-    <a href="https://georgejrdev.github.io/Portfolio" target="_blank">
+    <a href="https://georgejrdev.github.io/redirect?to=portfolio" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-0DBD8B?style=for-the-badge&logoColor=white" alt="Portfolio">
     </a>
-    <a href="https://georgejrdev.github.io/Portfolio/blog.html" target="_blank">
+    <a href="https://georgejrdev.github.io/redirect?to=blog" target="_blank">
         <img src="https://img.shields.io/badge/Blog-FF2222?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog">
     </a>
-    <a href="https://www.linkedin.com/in/george-j%C3%BAnior-b26776268" target="_blank">
+    <a href="https://georgejrdev.github.io/redirect?to=linkedin" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
 </div>
@@ -36,6 +36,6 @@ I'm passionate about learning and constantly seek to expand my skills. I engage 
 
 The best articles I wrote on the most diverse topics.
 
-- [The basics of Git](https://georgejrdev.github.io/Portfolio/post.html?id=2)
-- [Always choose the simple](https://georgejrdev.github.io/Portfolio/post.html?id=0)
-- [JavaScript is the worst language](https://georgejrdev.github.io/Portfolio/post.html?id=3)
+- [The basics of Git](https://georgejrdev.github.io/redirect?to=blog-post-the-basics-of-git)
+- [Always choose the simple](https://georgejrdev.github.io/redirect?to=blog-post-always-choose-the-simple)
+- [JavaScript is the worst language](https://georgejrdev.github.io/redirect?to=blog-post-javascript-is-the-worst-language)
