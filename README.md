@@ -5,10 +5,13 @@
         <img src="https://img.shields.io/badge/Portfolio-0DBD8B?style=for-the-badge&logoColor=white" alt="Portfolio">
     </a>
     <a href="https://georgejrdev.github.io/redirect?to=blog" target="_blank">
-        <img src="https://img.shields.io/badge/Blog-FF2222?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog">
+        <img src="https://img.shields.io/badge/Blog-A02222?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog">
     </a>
     <a href="https://georgejrdev.github.io/redirect?to=linkedin" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://georgejrdev.github.io/redirect?to=youtube" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube">
     </a>
 </div>
 
@@ -16,26 +19,24 @@
 
 ### About me:
 
-Hello! I'm a Fullstack Developer with 4 years of experience. I specialize in Java, JavaScript/TypeScript, Angular, and React Native, with additional experience in PHP and Python projects.
+I'm a Full-Stack developer with 5 years of experience. I specialize in **Java**, **GoLang** and **Angular**, having worked on this stack on several freelance projects since 2020.
 
 I'm passionate about learning and constantly seek to expand my skills. I engage in freelance work and personal projects to apply and grow my expertise. I love tackling challenges in both backend and frontend development, staying at the forefront of the tech landscape.
 
-- ☕ Java / Spring 
+- ☕ Java / GoLang
 
 - 👨‍💻 TypeScript / Angular 
 
 - 🗺 English / Portuguese 
 
-- ☁ Azure / AWS / CI-CD 
+- ☁ Azure / AWS / RabbitMQ
 
 - 🗄 SQL / NoSQL 
 
-- 🎉Tailwind / SASS 
+- 🎉 Tailwind / SASS 
 
-### Best articles:
+<hr>
 
-The best articles I wrote on the most diverse topics.
+### Best blog posts written by me:
 
-- [The basics of Git](https://georgejrdev.github.io/redirect?to=blog-post-the-basics-of-git)
 - [Always choose the simple](https://georgejrdev.github.io/redirect?to=blog-post-always-choose-the-simple)
-- [JavaScript is the worst language](https://georgejrdev.github.io/redirect?to=blog-post-javascript-is-the-worst-language)
