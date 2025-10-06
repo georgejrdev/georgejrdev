@@ -10,9 +10,6 @@
     <a href="https://georgejrdev.github.io/redirect?to=linkedin" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://georgejrdev.github.io/redirect?to=youtube" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube">
-    </a>
 </div>
 
 <hr>
@@ -34,9 +31,3 @@ I'm passionate about learning and constantly seek to expand my skills. I engage 
 - 🗄 SQL / NoSQL 
 
 - 🎉 Tailwind / SASS 
-
-<hr>
-
-### Best blog posts written by me:
-
-- [Always choose the simple](https://georgejrdev.github.io/redirect?to=blog-post-always-choose-the-simple)
