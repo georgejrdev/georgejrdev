@@ -9,11 +9,15 @@
 
 I'm a **Full-Stack** developer with 6 years of experience. I specialize in **Java**, **TypeScript** and **Angular**, having worked on this stack on several freelance projects since 2020.
 
+Furthermore, over the course of these 6 years, I have frequently worked as a **data analyst and data engineer**, which has fully qualified me for roles in this field, supported by a solid grasp of mathematics.
+
 - 🗺 Portuguese / English / Spanish
 
 - ☁ Azure / AWS / RabbitMQ / Kafka
 
 - 🗄 PostgreSQL / MySQL / MongoDB / Memcached 
+
+- 🎲 Power BI
 
 - 🎉 Tailwind / SASS
 
