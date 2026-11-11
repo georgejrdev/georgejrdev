@@ -1,5 +1,6 @@
 ![Hi, I'm George Jr.](https://readmes.pages.dev/text/say/Hi%2C%20I'm%20George%20Jr./typing)
 
+<a target="_blank" href="https://georgejrdev.github.io/redirect?to=linkedin">View my linkedin</a>
 </div>
 
 <hr>
